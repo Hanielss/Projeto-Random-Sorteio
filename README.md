@@ -10,6 +10,10 @@ Tecnologias:
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<br>
+<br>
+<p> Neste projeto, estudamos algumas funções do JS, tais como: Functions, QuerySelector, If e Else, utilizamos o Random com Math.ceil e floor </p>
+<img src="https://github.com/Hanielss/Projeto-Random-Sorteio/blob/main/assets/img%20do%20projeto.jpg?raw=true">
 
 
  
